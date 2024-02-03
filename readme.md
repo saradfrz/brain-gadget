@@ -11,4 +11,6 @@ PDF to Anki Cards is a project that automates the process of converting PDF docu
 By automating these steps, "PDF to Anki Cards" offers a streamlined solution for learners to convert PDF content into Anki flashcards, enhancing their study efficiency and retention.
 
 <br><br><br>
-<img src="img/AI-powered-flashcards.svg" alt="project" style="border: 0; outline: None; wisth: 100%">
+<div style="text-align: center;">
+<img src="img/AI-powered-flashcards.svg" alt="project" style="border: 0; outline: None; width: 540px">
+</div>
