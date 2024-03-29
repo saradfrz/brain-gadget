@@ -1,6 +1,8 @@
 # PDF to Anki Cards
 
-PDF to Anki Cards is a project that automates the process of converting PDF documents into Anki flashcards. The workflow involves several steps:
+Brain Gadget creates GenAI prompts to generate flashcards in csv format, automating the process of converting study materials in PDF format into Anki flashcards. This quick fix increases study efficacy while saving time.
+
+## Workflow
 
 - **PDF Parsing**: The PDF is read and parsed to extract text content.
 - **Text Segmentation**: The extracted text is separated into smaller, manageable chunks suitable for flashcards.
@@ -11,4 +13,3 @@ PDF to Anki Cards is a project that automates the process of converting PDF docu
 By automating these steps, "PDF to Anki Cards" offers a streamlined solution for learners to convert PDF content into Anki flashcards, enhancing their study efficiency and retention.
 
 <br><br><br>
-<img class="centered-image" src="img/AI-powered-flashcards.svg" alt="project" style="border: 0; outline: None; width: 100%">
