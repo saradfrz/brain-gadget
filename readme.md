@@ -1,4 +1,4 @@
-# PDF to Anki Cards
+# Brain Gadget
 
 Brain Gadget creates GenAI prompts to generate flashcards in csv format, automating the process of converting study materials in PDF format into Anki flashcards. This quick fix increases study efficacy while saving time.
 
